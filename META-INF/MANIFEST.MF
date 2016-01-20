@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Coursehelper
+Bundle-SymbolicName: cn.nbcc.coursehelper;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: cn.nbcc.coursehelper.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.intro
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Bundle-Vendor: nbcc
